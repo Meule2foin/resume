@@ -84,6 +84,10 @@ export const resumeConfig: ResumeConfig = {
             'Coordination with the workshop for vehicle fittings.',
           ],
         },
+        env: {
+          fr: 'Vente en magasin, gestion de stocks, relation client.',
+          en: 'In-store sales, stock management, customer relations.',
+        },
       },
     },
     {
@@ -113,6 +117,10 @@ export const resumeConfig: ResumeConfig = {
             'Redesign of sales areas.',
             'Organization of commercial events and partnerships.',
           ],
+        },
+        env: {
+          fr: 'Vente en magasin, gestion de rayons, organisation d\'événements.',
+          en: 'In-store sales, department management, event organization.',
         },
       },
     },
@@ -144,6 +152,10 @@ export const resumeConfig: ResumeConfig = {
             'Management of partner relationships (Air Force, Ferrari, Sony).',
           ],
         },
+        env: {
+          fr: 'Gestion de projet, coordination d\'équipes, analyse de marché.',
+          en: 'Project management, team coordination, market analysis.',
+        },
       },
     },
     {
@@ -174,6 +186,10 @@ export const resumeConfig: ResumeConfig = {
             'Creation and monitoring of promotional operations.',
           ],
         },
+        env: {
+          fr: 'Gestion de business plan, veille concurrentielle, marketing opérationnel.',
+          en: 'Business plan management, competitive intelligence, operational marketing.',
+        },
       },
     },
     {
@@ -201,6 +217,10 @@ export const resumeConfig: ResumeConfig = {
             'Coordination between race direction and teams.',
             'Logistical management of events.',
           ],
+        },
+        env: {
+          fr: 'Coordination d\'événements, gestion logistique, milieu sportif international.',
+          en: 'Event coordination, logistics management, international sports environment.',
         },
       },
     },
@@ -266,4 +286,3 @@ export const resumeConfig: ResumeConfig = {
     },
   },
 }
-
