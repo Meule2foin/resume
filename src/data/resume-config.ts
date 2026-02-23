@@ -231,19 +231,12 @@ export const resumeConfig: ResumeConfig = {
       degree: { fr: 'Formation Grandes Ecoles de commerce', en: 'Business School Program' },
       specialty: { fr: 'Marketing, gestion, commerce', en: 'Marketing, Management, Business' },
       period: '2009 - 2011',
-      details: [
-        { fr: 'Membre du Bureau des Sports et de l\'équipe de basket.', en: 'Member of the Sports Office and basketball team.' },
-      ],
     },
     {
       school: { fr: 'EGC Nevers', en: 'EGC Nevers' },
       degree: { fr: 'Bachelor in Business and Management', en: 'Bachelor in Business and Management' },
       specialty: { fr: 'Responsable Marketing, commercialisation et gestion', en: 'Marketing, Sales and Management' },
       period: '2008',
-      details: [
-        { fr: 'Titre de Responsable Marketing, commercialisation et gestion. Niveau Européen, TOEIC 875.', en: 'Marketing, Sales and Management Manager. European level, TOEIC 875.' },
-        { fr: 'Président de l\'association des étudiants.', en: 'President of the student association.' },
-      ],
     },
   ],
   hobbies: [
